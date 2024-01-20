@@ -16,4 +16,4 @@ If you select (input) any option other than the ones listed in the menu it will 
 
 The number of the option you chose will display its unit and the number of the other unit that it is coverted to.
 
-If you select -1 on the option menu, it exits the program and displays: "Thank you for using Metric Converter. Have a great day!"
+If you select -1 on the option menu, it exits the program and displays the following message: "Thank you for using Metric Converter. Have a great day!"
