@@ -1,7 +1,7 @@
 ## Getting Started
 
 Welcome to Metric Converter 1.0! 
-There are only 4 conversion available:
+## There are only 4 conversion available:
 Grams to Ounces ,Kilograms to Pounds , Meters to Feet , and Centimeters to Inches.
 
 ## You will be prompted to select an option. Options are:
